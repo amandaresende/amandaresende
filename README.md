@@ -22,9 +22,9 @@
 ---
 
 ### 📂 **Projetos em Destaque**
-🔹 **[Automated Tests Selenium](https://github.com/amandaresende/automated-tests-selenium)** - Testes automatizados para a plataforma Seu Barriga usando Selenium 
-🔹 **[Adopet Cypress Tests](https://github.com/amanda/adopet-cypress-tests)** - Testes automatizados para a plataforma Adopet usando Cypress    
-🔹 **[Dogs](https://github.com/amanda/dogs)** - Aplicação estilo Instagram para pets, desenvolvida com React e Cypress  
+🔹 **[Automated Tests Selenium](https://github.com/amandaresende/automated-tests-selenium)** - Testes automatizados para a plataforma Seu Barriga usando Selenium </br>
+🔹 **[Adopet Cypress Tests](https://github.com/amanda/adopet-cypress-tests)** - Testes automatizados para a plataforma Adopet usando Cypress </br>  
+🔹 **[Dogs](https://github.com/amanda/dogs)** - Aplicação estilo Instagram para pets, desenvolvida com React e Cypress </br>
 
 ---
 
