@@ -23,7 +23,7 @@
 ---
 
 ### 📂 **Projetos em Destaque**
-🔹 **[Automated Tests BDD com Cucumber](https://github.com/amandaresende/automated-tests-bdd-cucumber))** - Testes automatizados para a plataforma Seu Barriga usando BDD com Cucumber  <br> 
+🔹 **[Automated Tests BDD com Cucumber](https://github.com/amandaresende/automated-tests-bdd-cucumber)** - Testes automatizados para a plataforma Seu Barriga usando BDD com Cucumber  <br>  
 🔹 **[Automated Tests Selenium](https://github.com/amandaresende/automated-tests-selenium)** - Testes automatizados para a plataforma Seu Barriga usando Selenium  <br>  
 🔹 **[Adopet Cypress Tests](https://github.com/amanda/adopet-cypress-tests)** - Testes automatizados para a plataforma Adopet usando Cypress  <br>  
 
