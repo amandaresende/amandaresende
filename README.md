@@ -30,7 +30,7 @@
 🔹 **[Automated Tests Selenium](https://github.com/amandaresende/automated-tests-selenium)** - Testes automatizados para a plataforma Seu Barriga usando Selenium  <br>
 🔹 **[Automated Tests Mobile Appium Robot](https://github.com/amandaresende/automated-tests-mobile-appium-robot)** - Testes automatizados para a plataforma mobile MarkX utilizando Robot Framework e Appium  <br> 
 🔹 **[Mark85 Robot Framework Tests](https://github.com/amandaresende/automated-tests-robot-framework)** - Testes automatizados para a plataforma Mark85 usando Robot Framework  <br>
-🔹 **[Adopet Cypress Tests](https://github.com/amanda/adopet-cypress-tests)** - Testes automatizados para a plataforma Adopet usando Cypress  <br>  
+🔹 **[Adopet Cypress Tests](https://github.com/amandaresende/adopet-cypress-tests)** - Testes automatizados para a plataforma Adopet usando Cypress  <br>  
 
 ---
 
