@@ -28,9 +28,9 @@
 🔹 **[Automated Tests BDD com Cucumber](https://github.com/amandaresende/automated-tests-bdd-cucumber)** - Testes automatizados para a plataforma Seu Barriga usando BDD com Cucumber  <br>
 🔹 **[Automated Tests Rest-Assured](https://github.com/amandaresende/automated-tests-rest-assured)** - Testes automatizados na API Seu Barriga usando Rest-Assured  <br>
 🔹 **[Automated Tests Selenium](https://github.com/amandaresende/automated-tests-selenium)** - Testes automatizados para a plataforma Seu Barriga usando Selenium  <br>
-🔹 **[Automated Tests Mobile Appium Robot](https://github.com/amandaresende/automated-tests-mobile-appium-robot)** - Testes automatizados para a plataforma mobile MarkX utilizando Robot Framework e Appium  <br> 
-🔹 **[Mark85 Robot Framework Tests](https://github.com/amandaresende/automated-tests-robot-framework)** - Testes automatizados para a plataforma Mark85 usando Robot Framework  <br>
-🔹 **[Adopet Cypress Tests](https://github.com/amandaresende/adopet-cypress-tests)** - Testes automatizados para a plataforma Adopet usando Cypress  <br>  
+🔹 **[Automated Tests Mobile Appium Robot](https://github.com/amandaresende/automated-tests-mobile-appium-robot)** - Testes automatizados para a plataforma mobile MarkX utilizando Robot e Appium  <br> 
+🔹 **[Automated Tests Robot Framework](https://github.com/amandaresende/automated-tests-robot-framework)** - Testes automatizados para a plataforma Mark85 utilizando Robot Framework  <br>
+🔹 **[Automated Tests Cypress](https://github.com/amandaresende/automated-tests-cypress-markl)** - Testes automatizados para a plataforma MarkL utilizando Cypress  <br>
 
 ---
 
